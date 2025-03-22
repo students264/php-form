@@ -112,7 +112,7 @@
 </body>
 </html>
 <?php
-$host = "database-server.c1kmyok2syqc.us-east-1.rds.amazonaws.com";  
+$host = "";  
 $username = "admin"; 
 $password = "password"; 
 $dbname = "kdas"; 
