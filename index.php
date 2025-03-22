@@ -112,7 +112,7 @@
 </body>
 </html>
 <?php
-/*$host = "";  
+$host = "44.201.106.202";  
 $username = "admin"; 
 $password = "password"; 
 $dbname = "kdas"; 
@@ -137,5 +137,4 @@ try {
 } catch (PDOException $e) {
     echo "Connection failed: " . $e->getMessage();
 }
-    */
 ?>
